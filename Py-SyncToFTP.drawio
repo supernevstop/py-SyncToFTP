@@ -1,1 +1,115 @@
-<mxfile host="Electron" modified="2021-01-12T06:33:26.514Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/13.6.2 Chrome/83.0.4103.122 Electron/9.2.0 Safari/537.36" etag="Sph73fi3UeaUxo-ocMw4" version="13.6.2" type="device"><diagram id="GU1OxogSR0QmupKzNI1j" name="Page-1">7Vptb5swEP41/pgKQwDzMWlhq/bSbqm09dPEghuYSIwcpyH79bODgfCSl2YJTqRKVYrPPsc+33P3+AgwbqfpB+on4RcS4BjoWpAC4w7oOtSQxf8JySqTIE0KJjQK5KBSMIr+4lxTShdRgOeVgYyQmEVJVTgmsxkes4rMp5Qsq8NeSFz91sSf4IZgNPbjpvRHFLBQ7sLUSvlHHE3C/JuhJnumfj5YCuahH5DlhshwgXFLCWHZ0zS9xbEwXm6XTM/b0lssjOIZO0ThIUpeE/s+ST714vvRt/QXiV97hlzcqx8v5I7latkqNwEli1mAxSwaMIbLMGJ4lPhj0bvkh85lIZvGvAX5o5wOU4bTrQuFxfa532AyxYyu+JBcITeudJm+bC5L+5u5LNywvYWk0JdnPimmLs3CH6Rl3mKl/UbCAXcb2SSUhWRCZn7sltJh1YzlmM+EJNJ4fzBjK4kBf8FIm2nFF+02LF8XWdAx3rGhHEk+nWC2Y5zeflAUxz6LXqvrOLnVYcPq3tMjFwDXBI4GBp54QAMwQMpd1rCqLouaLgv1Npc9l8faF+GxOI3YT6F+Y8rW80bPXSpnXjdWeWPG97+hJJrPm32l2rqV650QHfqB6OjvDmMVj+gVieFg8MiZH0nEN1BMBGsuQ15e5nyVdYcp1nO8D+lb8YfA0AOOC1wLIBcMzIvDH7RVAxA1jPf1QSUE4QYASzjugSCsALDE4/kh2L+KBNUkT8/u6D3QnvyUHZWn3G+mUh73HCQJiGAiVktIFA9I9GYkxfGaQTIk09+LeTcB0jQrAbIIfJsB0ugyQMJm1ngHyk4AHAAUuIWSdIMUpxUpAwNwOiwg40lcOBwaNnD7YDgEQ6sNTRwyHE0QuDZw+kJRDObqa3xxydC5OMphmKopB2za/wo5hwZUcQ54aDqCSCXK8qtcnXVoD9/5hxfRubgtPEVTfC0BVsUZbkN3R8yxjVQcE/QUUoh+S12uWwpRVFa79fAjb0ftyNA6QwbqiGzXyhZp7gS1dFkv1mbrklqnL2bA5oVchEiyYMqZRFHM3gWsTpmE/s7N31AtPLiYrpSc5xPX2DniFNxeX195yrlbJyH+rAkmsS72jTDlzq0cI3W2bSpn27rVTsMU4ua66Lb+nzU+6Rk97QY5jl7xjqIy97akNaDUX20MSEQymm/PabpTZUSWXXsDu2e8rmk1N8xWUNPuoNLfTI6Kffm4q2M1B8AL9GW1V0cDqjjTwJ+Ha/0LuB/m95P9Qec8NNiwqiHANmr5KdvB2WiwftjFs8kLnHWXIyQDT/xd0lXUUn8Vbat92uKnCdyQ3MDDgbAxtyK/9qDsnYAthNt5FVTCq+y29wIn4lW8Wf7aKXPo8jdjhvsP</diagram></mxfile>
+<mxfile host="65bd71144e" modified="2021-01-13T01:36:40.477Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.52.1 Chrome/83.0.4103.122 Electron/9.3.5 Safari/537.36" etag="Yuo2LgJB0BjaMnvl2MMZ" version="13.10.0" type="embed">
+    <diagram id="GU1OxogSR0QmupKzNI1j" name="Page-1">
+        <mxGraphModel dx="545" dy="919" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="Oipvp7IppK-lISQx_olv-30" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="140" y="250" width="670" height="680" as="geometry"/>
+                </mxCell>
+                <mxCell id="Oipvp7IppK-lISQx_olv-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Oipvp7IppK-lISQx_olv-1" target="Oipvp7IppK-lISQx_olv-2" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="Oipvp7IppK-lISQx_olv-1" value="读取 FTP 配置文件" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="350" y="280" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="Oipvp7IppK-lISQx_olv-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Oipvp7IppK-lISQx_olv-2" target="Oipvp7IppK-lISQx_olv-4" edge="1">
+                    <mxGeometry x="1" y="-100" relative="1" as="geometry">
+                        <mxPoint y="10" as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="Oipvp7IppK-lISQx_olv-2" value="FTP 连接" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="350" y="380" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="Oipvp7IppK-lISQx_olv-10" value="YES" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Oipvp7IppK-lISQx_olv-4" target="Oipvp7IppK-lISQx_olv-9" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Oipvp7IppK-lISQx_olv-4" target="7">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="Oipvp7IppK-lISQx_olv-4" value="ftpConnected?" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="345" y="470" width="130" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="Oipvp7IppK-lISQx_olv-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Oipvp7IppK-lISQx_olv-9" target="Oipvp7IppK-lISQx_olv-14" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="Oipvp7IppK-lISQx_olv-9" value="检查是否需要上传" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="350" y="560" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="Oipvp7IppK-lISQx_olv-19" value="NO" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Oipvp7IppK-lISQx_olv-14" target="Oipvp7IppK-lISQx_olv-18" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="Oipvp7IppK-lISQx_olv-22" value="YES OR First Time" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="Oipvp7IppK-lISQx_olv-14" target="Oipvp7IppK-lISQx_olv-21" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="Oipvp7IppK-lISQx_olv-14" value="needUploading?" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="345" y="650" width="130" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="Oipvp7IppK-lISQx_olv-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="Oipvp7IppK-lISQx_olv-18" target="Oipvp7IppK-lISQx_olv-9" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="590" y="590" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="Oipvp7IppK-lISQx_olv-18" value="fileChecking&lt;br&gt;Timeout" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="530" y="650" width="90" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="Oipvp7IppK-lISQx_olv-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Oipvp7IppK-lISQx_olv-21" target="Oipvp7IppK-lISQx_olv-24" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="Oipvp7IppK-lISQx_olv-21" value="拷贝到 FTP Server" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="350" y="760" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="Oipvp7IppK-lISQx_olv-26" value="YES" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Oipvp7IppK-lISQx_olv-24" target="Oipvp7IppK-lISQx_olv-1" edge="1">
+                    <mxGeometry x="-0.8992" y="-10" relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="285" y="880"/>
+                            <mxPoint x="285" y="310"/>
+                        </Array>
+                        <mxPoint as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="Oipvp7IppK-lISQx_olv-28" value="YES" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="Oipvp7IppK-lISQx_olv-24" target="12" edge="1">
+                    <mxGeometry x="-0.4615" y="10" relative="1" as="geometry">
+                        <mxPoint as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="14" value="用户关闭程序" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;dashPattern=1 2;strokeWidth=4;" edge="1" parent="1" target="Oipvp7IppK-lISQx_olv-29">
+                    <mxGeometry x="-0.2" y="60" relative="1" as="geometry">
+                        <mxPoint x="410" y="930" as="sourcePoint"/>
+                        <mxPoint as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="Oipvp7IppK-lISQx_olv-24" value="发生拷贝错误" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="345" y="850" width="130" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="Oipvp7IppK-lISQx_olv-29" value="程序退出" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="350" y="980" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2" target="4">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="2" value="程序启动" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="350" y="70" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="4" target="Oipvp7IppK-lISQx_olv-1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="4" value="读取 app 配置文件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="350" y="160" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="7" target="Oipvp7IppK-lISQx_olv-1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="7" value="Reconnect&lt;br&gt;Timeout" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="490" y="380" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="12" target="Oipvp7IppK-lISQx_olv-9">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="12" value="TransferSuccess&lt;br&gt;Timeout" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="650" y="650" width="90" height="60" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>

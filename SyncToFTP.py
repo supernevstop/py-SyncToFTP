@@ -145,6 +145,12 @@ def thread():
             continue
 
         # Step3: 上传流程
+        if lastModifyTime == "":
+            print("First Run. Start uploading...")
+            pass
+        else:
+            print("File is changed. Start uploading...")
+            pass
         try:
             # Step3.1: 复制到一个临时文件中去
             fileFolder, fileName = os.path.split(filePath)
