@@ -50,7 +50,7 @@ def _loadConf(filepath, session, fieldsWithDefaultValue):
         with open(filepath, "w", encoding="utf-8") as file:
             config.write(file)  # 值写入配置文件
 
-    config.read(filepath, encoding="UTF-8")
+    config.read(filepath, encoding="utf-8")
 
     conf = dict()
     for key, value in fieldsWithDefaultValue.items():
