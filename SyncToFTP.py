@@ -64,7 +64,7 @@ def loadAppConf(filepath):
         filepath,
         "app",
         {
-            "Path": "D:/test.txt",
+            "Path": "D:\\测试\\abc.rtf",
             "reconnectTimeout": "5",
             "fileCheckingTimeout": "5",
             "TransfterSuccessTimeout": "60",
